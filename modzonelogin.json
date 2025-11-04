@@ -112,5 +112,11 @@
         "key": "modzone0003",
         "expirydate": "11-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "073745569be08752",
+        "key": "habib",
+        "expirydate": "13-11-2025",
+        "Allowoffline": false
     }
 ]
