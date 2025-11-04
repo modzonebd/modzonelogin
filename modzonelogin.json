@@ -28,5 +28,17 @@
         "key": "roman",
         "expirydate": "15-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c171be32095dc47f",
+        "key": "Shanto",
+        "expirydate": "10-11-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "02f542525824ede0",
+        "key": "sagor",
+        "expirydate": "10-11-2025",
+        "Allowoffline": false
     }
 ]
