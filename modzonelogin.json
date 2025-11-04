@@ -58,5 +58,11 @@
         "key": "rimon",
         "expirydate": "09-11-2025",
         "Allowoffline": false
-}
+   },
+    {
+        "device_id": "e4b69d410ae11107",
+        "key": "azim",
+        "expirydate": "09-11-2025",
+        "Allowoffline": false
+    }
 ]
