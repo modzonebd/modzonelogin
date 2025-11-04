@@ -100,5 +100,11 @@
         "key": "modzonevip",
         "expirydate": "13-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4fd2fb02bcb007ed",
+        "key": "modzonepaid",
+        "expirydate": "16-11-2025",
+        "Allowoffline": false
     }
 ]
