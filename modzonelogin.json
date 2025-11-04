@@ -76,5 +76,23 @@
         "key": "sakib",
         "expirydate": "10-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "eea2b5a3c4473725",
+        "key": "ADNAN007",
+        "expirydate": "13-11-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "9f5b1713d008fec8",
+        "key": "mahim",
+        "expirydate": "09-11-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "9b4e5e6ce2f5da1d",
+        "key": "abir",
+        "expirydate": "11-11-2025",
+        "Allowoffline": false
     }
 ]
