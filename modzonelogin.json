@@ -94,5 +94,11 @@
         "key": "abir",
         "expirydate": "11-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9c8fd58f83b2fc20",
+        "key": "modzonevip",
+        "expirydate": "13-11-2025",
+        "Allowoffline": false
     }
 ]
