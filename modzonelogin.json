@@ -47,9 +47,15 @@
         "expirydate": "09-11-2025",
         "Allowoffline": false
     },
-{
+   {
         "device_id": "vbd84f1b27e8c8c1f",
         "key": "Dhiraj",
+        "expirydate": "09-11-2025",
+        "Allowoffline": false
+   },
+    {
+        "device_id": "1f50c06d9fe010e9",
+        "key": "rimon",
         "expirydate": "09-11-2025",
         "Allowoffline": false
 }
