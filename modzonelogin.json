@@ -22,5 +22,11 @@
         "key": "dakusagor",
         "expirydate": "15-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c3db371de7bc98f8",
+        "key": "roman",
+        "expirydate": "15-11-2025",
+        "Allowoffline": false
     }
 ]
