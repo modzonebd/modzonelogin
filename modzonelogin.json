@@ -172,6 +172,18 @@
         "key": "romjan",
         "expirydate": "05-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "37377575f8f22a37",
+        "key": "sany",
+        "expirydate": "05-12-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "6a334cb5f3790cab",
+        "key": "patali",
+        "expirydate": "05-12-2025",
+        "Allowoffline": false
     }
 
 ]
