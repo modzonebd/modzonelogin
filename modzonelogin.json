@@ -160,6 +160,12 @@
         "key": "rofiqul",
         "expirydate": "05-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "65b7dddbdf9d3980",
+        "key": "anik",
+        "expirydate": "05-12-2025",
+        "Allowoffline": false
     }
 
 ]
