@@ -166,6 +166,12 @@
         "key": "anik",
         "expirydate": "05-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "218399ad61797d60",
+        "key": "romjan",
+        "expirydate": "05-12-2025",
+        "Allowoffline": false
     }
 
 ]
