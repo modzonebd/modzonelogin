@@ -190,6 +190,13 @@
         "key": "mehedi",
         "expirydate": "11-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a0747dcbebf321c1",
+        "key": "rifat",
+        "expirydate": "13-11-2025",
+        "Allowoffline": false
     }
+    
 
 ]
