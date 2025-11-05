@@ -238,6 +238,12 @@
         "key": "Mahi",
         "expirydate": "13-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cd1168610d6cb709",
+        "key": "Hridoy",
+        "expirydate": "09-11-2025",
+        "Allowoffline": false
     }
 
     
