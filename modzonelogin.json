@@ -226,6 +226,12 @@
         "key": "tasmin",
         "expirydate": "05-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f33e6f112f33896a",
+        "key": "ripon1",
+        "expirydate": "05-12-2025",
+        "Allowoffline": false
     }
 
     
