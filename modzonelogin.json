@@ -142,5 +142,11 @@
         "key": "samir",
         "expirydate": "11-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b6de7cfdda7a4d4c",
+        "key": "shakil",
+        "expirydate": "13-11-2025",
+        "Allowoffline": false
     }
 ]
