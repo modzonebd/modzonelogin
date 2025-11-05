@@ -134,7 +134,13 @@
     {
         "device_id": "767cac00b1561cfc",
         "key": "rakibul",
-        "expirydate": "13-11-2025",
+        "expirydate": "10-11-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "9a3622138fe7938e",
+        "key": "samir",
+        "expirydate": "11-11-2025",
         "Allowoffline": false
     }
 ]
