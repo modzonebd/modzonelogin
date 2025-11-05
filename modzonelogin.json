@@ -184,6 +184,12 @@
         "key": "patali",
         "expirydate": "05-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "58292afa45748262",
+        "key": "mehedi",
+        "expirydate": "11-11-2025",
+        "Allowoffline": false
     }
 
 ]
