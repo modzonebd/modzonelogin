@@ -286,7 +286,14 @@
         "key": "rofiq",
         "expirydate": "14-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fa27db1314c5c867",
+        "key": "mahim",
+        "expirydate": "14-11-2025",
+        "Allowoffline": false
     }
+
 
 
 
