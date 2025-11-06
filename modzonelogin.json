@@ -280,6 +280,12 @@
         "key": "modzonehack",
         "expirydate": "14-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "71f289a734c0a790",
+        "key": "rofiq",
+        "expirydate": "14-11-2025",
+        "Allowoffline": false
     }
 
 
