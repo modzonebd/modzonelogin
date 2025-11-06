@@ -256,7 +256,14 @@
         "key": "sagor2",
         "expirydate": "09-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dc0d1a96daf2ccee",
+        "key": "kawser",
+        "expirydate": "14-11-2025",
+        "Allowoffline": false
     }
+
 
 
     
