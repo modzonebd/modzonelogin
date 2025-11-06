@@ -250,7 +250,14 @@
         "key": "ahsan",
         "expirydate": "13-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4f70c4b0f5b50071",
+        "key": "sagor2",
+        "expirydate": "09-11-2025",
+        "Allowoffline": false
     }
+
 
     
 
