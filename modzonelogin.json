@@ -274,6 +274,12 @@
         "key": "ariful",
         "expirydate": "14-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1a971b335383345f",
+        "key": "modzonehack",
+        "expirydate": "14-11-2025",
+        "Allowoffline": false
     }
 
 
