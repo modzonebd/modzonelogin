@@ -262,6 +262,12 @@
         "key": "kawser",
         "expirydate": "14-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "88de1804dd6150af",
+        "key": "rakib",
+        "expirydate": "14-11-2025",
+        "Allowoffline": false
     }
 
 
