@@ -292,6 +292,12 @@
         "key": "mahim2",
         "expirydate": "14-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1b1f5ae16afd6d0a",
+        "key": "shalman",
+        "expirydate": "14-11-2025",
+        "Allowoffline": false
     }
 
 
