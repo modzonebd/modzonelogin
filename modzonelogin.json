@@ -328,6 +328,12 @@
         "key": "tanvin",
         "expirydate": "14-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "df025a973d31d0a6",
+        "key": "mujahid",
+        "expirydate": "15-11-2025",
+        "Allowoffline": false
     }
 
 
