@@ -316,6 +316,12 @@
         "key": "master2",
         "expirydate": "14-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "70ff94c88685f8c8",
+        "key": "newid2",
+        "expirydate": "14-11-2025",
+        "Allowoffline": false
     }
 
 
