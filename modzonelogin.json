@@ -340,6 +340,12 @@
         "key": "alif1313",
         "expirydate": "15-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dbc385811d30dec0",
+        "key": "shakib",
+        "expirydate": "15-11-2025",
+        "Allowoffline": false
     }
 
 
