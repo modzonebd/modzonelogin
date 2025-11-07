@@ -334,6 +334,12 @@
         "key": "mujahid",
         "expirydate": "15-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b7185c6556c65e57",
+        "key": "alif1313",
+        "expirydate": "15-11-2025",
+        "Allowoffline": false
     }
 
 
