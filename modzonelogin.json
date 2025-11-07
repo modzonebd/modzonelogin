@@ -310,6 +310,12 @@
         "key": "new",
         "expirydate": "10-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7738a1489320c9ba",
+        "key": "master2",
+        "expirydate": "14-11-2025",
+        "Allowoffline": false
     }
 
 
