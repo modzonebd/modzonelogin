@@ -346,6 +346,12 @@
         "key": "shakib",
         "expirydate": "15-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ddb8bc97bc78f307",
+        "key": "jisan",
+        "expirydate": "15-11-2025",
+        "Allowoffline": false
     }
 
 
