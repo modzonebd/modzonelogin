@@ -382,6 +382,12 @@
         "key": "shovo1010",
         "expirydate": "15-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "20ca44618c039112",
+        "key": "erfan",
+        "expirydate": "15-11-2025",
+        "Allowoffline": false
     }
 
 
