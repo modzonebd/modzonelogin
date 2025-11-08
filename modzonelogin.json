@@ -394,6 +394,12 @@
         "key": "shakib2",
         "expirydate": "16-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "95330dba47c147c0",
+        "key": "Jubayer",
+        "expirydate": "16-11-2025",
+        "Allowoffline": false
     }
 
 
