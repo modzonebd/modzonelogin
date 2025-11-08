@@ -400,6 +400,18 @@
         "key": "Jubayer",
         "expirydate": "16-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7cedc4c3f55b9914",
+        "key": "rocky2",
+        "expirydate": "10-11-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "55d38d3a70907d33",
+        "key": "RAYAHN",
+        "expirydate": "16-11-2025",
+        "Allowoffline": false
     }
 
 
