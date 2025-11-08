@@ -412,6 +412,12 @@
         "key": "RAYAHN",
         "expirydate": "16-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5f77cc2ee0b0ff78",
+        "key": "bijon",
+        "expirydate": "16-11-2025",
+        "Allowoffline": false
     }
 
 
