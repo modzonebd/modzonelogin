@@ -430,6 +430,12 @@
         "key": "newboy2",
         "expirydate": "16-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "aad79b905fdfe04b",
+        "key": "mimvip",
+        "expirydate": "12-11-2025",
+        "Allowoffline": false
     }
     
 
