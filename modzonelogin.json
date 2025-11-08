@@ -68,7 +68,7 @@
     {
         "device_id": "e8049c1fac31d7fc",
         "key": "umor",
-        "expirydate": "09-11-2025",
+        "expirydate": "16-11-2025",
         "Allowoffline": false
     },
     {
@@ -362,7 +362,7 @@
     {
         "device_id": "07917d3bc27da810",
         "key": "shihab",
-        "expirydate": "15-11-2025",
+        "expirydate": "16-11-2025",
         "Allowoffline": false
     },
     {
@@ -374,19 +374,25 @@
     {
         "device_id": "81d14f1fac548849",
         "key": "tawsif",
-        "expirydate": "15-11-2025",
+        "expirydate": "16-11-2025",
         "Allowoffline": false
     },
     {
         "device_id": "71534a772701e9ce",
         "key": "shovo1010",
-        "expirydate": "15-11-2025",
+        "expirydate": "16-11-2025",
         "Allowoffline": false
     },
     {
         "device_id": "20ca44618c039112",
         "key": "erfan",
-        "expirydate": "15-11-2025",
+        "expirydate": "16-11-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "339903fe22a13445",
+        "key": "shakib2",
+        "expirydate": "16-11-2025",
         "Allowoffline": false
     }
 
