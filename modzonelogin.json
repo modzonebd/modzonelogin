@@ -418,7 +418,14 @@
         "key": "bijon",
         "expirydate": "16-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "66a1b4dd3e0a1471",
+        "key": "NXRAYHAN",
+        "expirydate": "16-11-2025",
+        "Allowoffline": false
     }
+    
 
 
 
