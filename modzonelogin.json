@@ -436,6 +436,12 @@
         "key": "mimvip",
         "expirydate": "12-11-2024",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0f096224714830e6",
+        "key": "arup",
+        "expirydate": "14-11-2025",
+        "Allowoffline": false
     }
     
 
