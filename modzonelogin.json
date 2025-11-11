@@ -478,6 +478,18 @@
         "key": "muzammel12",
         "expirydate": "16-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "02f542525824ede0",
+        "key": "sagor23",
+        "expirydate": "18-11-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "0d19791cbc6a9eef",
+        "key": "nabil",
+        "expirydate": "14-11-2025",
+        "Allowoffline": false
     }
     
 
