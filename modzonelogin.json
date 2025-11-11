@@ -472,6 +472,12 @@
         "key": "ankor121",
         "expirydate": "11-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e7e11b59ec54a0c4",
+        "key": "muzammel12",
+        "expirydate": "16-11-2025",
+        "Allowoffline": false
     }
     
 
