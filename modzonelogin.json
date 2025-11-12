@@ -44,7 +44,7 @@
     {
         "device_id": "91e6d5fd3ab4672b",
         "key": "nadiya",
-        "expirydate": "09-11-2020",
+        "expirydate": "19-11-2025",
         "Allowoffline": false
    },
    {
@@ -489,6 +489,12 @@
         "device_id": "0d19791cbc6a9eef",
         "key": "nabil",
         "expirydate": "14-11-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "f9ac626deaef13dc",
+        "key": "akash",
+        "expirydate": "19-11-2025",
         "Allowoffline": false
     }
     
