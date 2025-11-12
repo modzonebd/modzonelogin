@@ -496,6 +496,12 @@
         "key": "akash",
         "expirydate": "19-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c13112d85435e66c",
+        "key": "toriqul",
+        "expirydate": "19-11-2025",
+        "Allowoffline": false
     }
     
 
