@@ -502,6 +502,12 @@
         "key": "toriqul",
         "expirydate": "19-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "59578422df7c5c73",
+        "key": "raju",
+        "expirydate": "19-11-2025",
+        "Allowoffline": false
     }
     
 
