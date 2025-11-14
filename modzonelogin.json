@@ -508,6 +508,12 @@
         "key": "raju",
         "expirydate": "22-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b6914258c646b252",
+        "key": "skol",
+        "expirydate": "14-12-2025",
+        "Allowoffline": false
     }
     
 
