@@ -520,8 +520,13 @@
         "key": "EMON",
         "expirydate": "18-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "026e20c36516dd8d",
+        "key": "mahi22",
+        "expirydate": "24-11-2025",
+        "Allowoffline": false
     }
-    
 
 
 
