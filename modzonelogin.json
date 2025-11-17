@@ -526,6 +526,12 @@
         "key": "mahi22",
         "expirydate": "24-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c448b42ceac876c5",
+        "key": "faysal1010",
+        "expirydate": "18-11-2025",
+        "Allowoffline": false
     }
 
 
