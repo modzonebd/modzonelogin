@@ -532,6 +532,12 @@
         "key": "faysal1010",
         "expirydate": "18-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "57ae9cb199cfa01a",
+        "key": "modzonetest2",
+        "expirydate": "20-11-2025",
+        "Allowoffline": false
     }
 
 
