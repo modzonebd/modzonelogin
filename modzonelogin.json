@@ -532,6 +532,12 @@
         "key": "faysal1010",
         "expirydate": "30-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "961eb5009b1d53a1",
+        "key": "dakusagor2",
+        "expirydate": "05-12-2025",
+        "Allowoffline": false
     }
 
 
